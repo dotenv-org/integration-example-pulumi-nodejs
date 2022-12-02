@@ -1,0 +1,3 @@
+config:
+  gcp:project: ninth-age-355800
+  pulumi:template: gcp-javascript

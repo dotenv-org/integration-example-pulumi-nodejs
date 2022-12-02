@@ -1,0 +1,16 @@
+{
+    "name": "integration-example-pulumi-nodejs",
+    "version": "0.1.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "node index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@pulumi/gcp": "^6.44.0",
+        "@pulumi/pulumi": "^3.48.0",
+        "dotenv-vault-core": "^0.6.1"
+    }
+}

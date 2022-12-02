@@ -1,0 +1,6 @@
+name: integration-example-pulumi-nodejs
+description: 
+runtime:
+    name: nodejs
+    options:
+        typescript: false
